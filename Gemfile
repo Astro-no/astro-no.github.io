@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+ruby "3.3.8"
+
+gem "jekyll", "4.4.1"
+gem "jekyll-theme-chirpy", "7.4.1"
+gem "webrick", "~> 1.7"
